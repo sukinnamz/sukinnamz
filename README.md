@@ -1,4 +1,6 @@
 ### Hi there 👋 Aku Innama Maesa Putri
+
+- 📫 How to reach me: @sukinnamz on instagram :3
 <!--
 **sukinnamz/sukinnamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
