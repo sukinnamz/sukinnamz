@@ -2,7 +2,7 @@
 <h3 align="center">A Mediocre IT Student from Malang</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/V_7EsfVdz-oAAAAC/madoka-magica-charlotte.gif" alt="welcome gif" />
+  <img src="https://media1.tenor.com/m/NwnpLDIn5gcAAAAC/saiba-momoi-saiba-midori.gif" alt="welcome gif" />
 </p>
 
 <p align="center">
