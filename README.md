@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Innam :3 </h1>
 <h3 align="center">A Mediocre IT Student from Malang</h3>
 
 <p align="center">
