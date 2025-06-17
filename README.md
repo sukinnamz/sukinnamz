@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">An IT Mediocre Student from Malang</h3>
+<h3 align="center">A Mediocre IT Student from Malang</h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/V_7EsfVdz-oAAAAC/madoka-magica-charlotte.gif" alt="welcome gif" />
