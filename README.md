@@ -1,17 +1,28 @@
-### Hi there 👋 Aku Innama Maesa Putri
+<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h3 align="center">An IT Mediocre Student from Malang</h3>
 
-- 📫 How to reach me: @sukinnamz on instagram :3
-<!--
-**sukinnamz/sukinnamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media1.tenor.com/m/V_7EsfVdz-oAAAAC/madoka-magica-charlotte.gif" alt="welcome gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sukinnamz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Projects
+
+Here are some of my favorite personal/public projects:
+
+- 🔥 [**SISTEM PRESMA**](https://github.com/sukinnamz/PBL-PRESMA)
+- A Laravel-based student achievement and competition management system that includes CRUD functionality, topsis logic-based competition recommendation, role-based access for admins and lecturers, and dynamic visual data dashboards.
+
+- 📊 [**SIBETA, SISTEM BEBAS TANGGUNGAN TA**](https://github.com/sukinnamz/Sistem-Informasi-Bebas-Tanggungan-TA)
+- A web application that simplifies the clearance process for graduating students. It allows departments to track and verify pending responsibilities such as borrowed books, unpaid fees, or lab items through a centralized dashboard.
+
+- 🎮 [**SMART HIDROPONIK**](https://github.com/sukinnamz/IOT-Hidroponik)
+- An IoT-powered smart hydroponic system that monitors and controls key environmental variables (e.g., temperature, humidity, and pH) via sensors, Raspberry PI and Arduino, with real-time data visualization through an integrated web interface.
+
+---
+
